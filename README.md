@@ -11,14 +11,19 @@ Building organic yet mathematically balanced profiles in CAD requires a strict s
 This project achieves a clean, production-ready emblem by focusing on three engineering principles:
 
 Strict Symmetry Constraints: Leveraging a single vertical axis of symmetry to reduce modeling redundancy and guarantee that the left and right wings are perfect dimensional reflections.
+
 <img width="732" height="417" alt="image" src="https://github.com/user-attachments/assets/ee918712-2da4-40c9-8761-48e1c2b4310c" />
 
 
+
 Continuous Spline Curvature: Utilizing localized spline control nodes and tangent handles to construct the fluid, aerodynamic curves of the wings.
+
 <img width="771" height="521" alt="image" src="https://github.com/user-attachments/assets/151d702f-d8f8-439e-9935-9b06aaec2ff7" />
 
 
+
 Embossed Depth (Multi-Layer Extrusion): Implementing tiered extrusion depths to create a physical step-up effect between the background emblem and the foreground silhouette.
+
 <img width="557" height="461" alt="image" src="https://github.com/user-attachments/assets/82751158-3cf7-455f-87be-df5d7b9759f8" />
 
 🛠️ CAD Features & Workflows Used
